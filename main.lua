@@ -1,4 +1,6 @@
-print )'note that this does not need a game engine like'
+print ('note that this does not need a game engine like LOVE2D ok press 1 to say ok')
+ok = io.read("*n")
+if ok == 1 then
 ::gogogo::
 print ('Press something to declare that you are not a bot')
 nameen = io.read();
@@ -160,3 +162,4 @@ end
 
 
 end
+ end
