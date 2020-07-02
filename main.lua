@@ -1,4 +1,4 @@
-
+print )'note that this does not need a game engine like'
 ::gogogo::
 print ('Press something to declare that you are not a bot')
 nameen = io.read();
