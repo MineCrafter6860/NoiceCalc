@@ -38,7 +38,6 @@ if type == 5 then
 
 print ('equals ' .. num12 / num22)
 
-
 end
 
 if type == 6 then
